@@ -8,6 +8,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimsuyeon)](https://github.com/anuraghazra/github-readme-stats)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimsuyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 <!--
 **Shimsuyeon/Shimsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
