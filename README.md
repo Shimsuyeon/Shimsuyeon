@@ -6,6 +6,8 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-gray?style=flat-square&logo=solidity&logoColor=363636)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+
 <!--
 **Shimsuyeon/Shimsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
