@@ -1,10 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Shim%20suyeon&fontSize=90)
-### Hi there 👋
-### Hi my name is Shimsuyeon!
+### Hi there 👋 My name is Shimsuyeon!
 ### GIST EECS👩‍🎓
 
-### Tech Stacks!
+### 💻 Tech Stacks!
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
