@@ -4,10 +4,8 @@
 ### GIST EECS👩‍🎓
 
 ### 💻 Tech Stacks!
-<br>
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimsuyeon)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimsuyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
