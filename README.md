@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Hi my name is Shimsuyeon!
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **Shimsuyeon/Shimsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
