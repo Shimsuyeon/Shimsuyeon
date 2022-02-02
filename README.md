@@ -4,7 +4,7 @@
 ### Hi my name is Shimsuyeon!
 ### GIST EECS👩‍🎓
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![Solidity](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 <!--
 **Shimsuyeon/Shimsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
