@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Shimsuyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=#89CFF0&height=300&section=header&text=Shimsuyeon&fontSize=90)
 ### Hi there 👋
 ### Hi my name is Shimsuyeon!
 <!--
