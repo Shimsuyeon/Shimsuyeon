@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Shim%20suyeon&fontSize=90)
 ### Hi there 👋
 ### Hi my name is Shimsuyeon!
-###GIST EECS
+### GIST EECS
 <!--
 **Shimsuyeon/Shimsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
