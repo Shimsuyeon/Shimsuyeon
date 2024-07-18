@@ -2,6 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Shim%20suyeon&fontSize=90)
 ### Hi there 👋 My name is Shimsuyeon(심수연)!
 #### GIST EECS👩‍🎓(광주과학기술원 전기전자컴퓨터공학부 4학년 재학 중)
+
+**[LinkedIn](https://www.linkedin.com/in/suyeon-shim-57a477316/)**
+
+
+**[Rallit](https://www.rallit.com/hub/resumes/72836/%EC%8B%AC%EC%88%98%EC%97%B0?isExpanded=true)**
+
 ### 💻 Tech Stacks! 
 #### 🧑‍💻Frontend
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) 
