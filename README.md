@@ -56,16 +56,14 @@ In IJCAI (Demo track), 2024*
 *심수연, 김현아, 최승규, 윤세림, 이수민, 이은찬*
 
 
-<br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimsuyeon)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimsuyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 
 
 <!--
 **Shimsuyeon/Shimsuyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Shimsuyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimsuyeon)](https://github.com/Shimsuyeon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimsuyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
