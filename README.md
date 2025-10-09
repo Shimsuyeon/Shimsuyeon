@@ -34,7 +34,8 @@
 <br/>
 
 ### 🔭 Work Experiences!
-#### [현재] NAVER Healthcare Internship - 개발 인턴
+#### [25.03.04.~현재] LEVIT(레브잇) Frontend Engineer - 올팜 스쿼드 프론트엔드 개발자
+#### [24.06.24~24.08.16] NAVER Healthcare Internship - 개발 인턴
 #### [24.01.07.~24.05.31.] GIST Data Science 연구실 - O2ARC 3.0 개발 [https://o2arc.com](https://o2arc.com)
 #### [23.11.11.~24.02.29.] GIST Auditory and Music Perception 연구실 - Unity 개발 인턴
 #### [21.12.10.~22.02.28.] GIST Infonet 연구실 - 블록체인 인턴
