@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Shim%20suyeon&fontSize=90)
 ### Hi there 👋 My name is Shimsuyeon(심수연)!
 
-#### 레브잇 Frontend Engineer - 올팜 스쿼드
+### 레브잇 Frontend Engineer - 올팜 스쿼드
 #### GIST EECS👩‍🎓(광주과학기술원 전기전자컴퓨터공학부 졸업 2025.02.)
 
 **[LinkedIn](https://www.linkedin.com/in/suyeon-shim-57a477316/)**  **[Rallit](https://www.rallit.com/hub/resumes/72836/%EC%8B%AC%EC%88%98%EC%97%B0?isExpanded=true)**
