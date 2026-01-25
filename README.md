@@ -1,5 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=89CFF0&height=300&section=header&text=Shim%20suyeon&fontSize=90)
 ### Hi there 👋 My name is Shimsuyeon(심수연)!
 
 ### 레브잇 Frontend Engineer - 올팜 스쿼드
