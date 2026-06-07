@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Shimsuyeon(심수연)!
 
-### 레브잇 Frontend Engineer - 올팜 스쿼드
 #### GIST EECS👩‍🎓(광주과학기술원 전기전자컴퓨터공학부 졸업 2025.02.)
 
 **[LinkedIn](https://www.linkedin.com/in/suyeon-shim-57a477316/)**  **[Rallit](https://www.rallit.com/hub/resumes/72836/%EC%8B%AC%EC%88%98%EC%97%B0?isExpanded=true)**
@@ -32,7 +31,7 @@
 <br/>
 
 ### 🔭 Work Experiences!
-#### [25.03.04.~현재] LEVIT(레브잇) Frontend Engineer - 올팜 스쿼드 프론트엔드 개발자
+#### [25.03.04.~26.06.02.] LEVIT(레브잇) Frontend Engineer - 올팜 스쿼드 프론트엔드 개발자
 #### [24.06.24~24.08.16] NAVER Healthcare Internship - 개발 인턴
 #### [24.01.07.~24.05.31.] GIST Data Science 연구실 - O2ARC 3.0 개발 [https://o2arc.com](https://o2arc.com)
 #### [23.11.11.~24.02.29.] GIST Auditory and Music Perception 연구실 - Unity 개발 인턴
