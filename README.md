@@ -18,6 +18,7 @@
 <br/>
 
 ### 🔭 Work Experiences!
+#### [26.07.13.~ Current] Toss Bank(토스뱅크) Frontend Developer - Housing Loan Team 전세 대출 프론트엔드 개발자
 #### [25.03.04.~26.06.02.] LEVIT(레브잇) Frontend Engineer - 올팜 스쿼드 프론트엔드 개발자
 #### [24.06.24~24.08.16] NAVER Healthcare Internship - 개발 인턴
 #### [24.01.07.~24.05.31.] GIST Data Science 연구실 - O2ARC 3.0 개발 [https://o2arc.com](https://o2arc.com)
